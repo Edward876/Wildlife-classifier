@@ -21,7 +21,7 @@ The model is saved in TensorFlow Lite format (`.tflite`) for efficient inference
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/animal-classification.git
+git clone https://github.com/Edward876/Wildlife-classifier.git
 cd animal-classification
 pip install -r requirements.txt
 ```
